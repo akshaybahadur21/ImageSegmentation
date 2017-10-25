@@ -18,10 +18,12 @@ Drew a bounding box (rectangle) circumscribing each contoured object - each of t
 
 For more information, [see](http://opencv-python-tutroals.readthedocs.io/en/latest/)
 
-INPUT
-<img src="https://github.com/akshaybahadur21/ImageSegmentation/blob/master/input.png">
+### Input
 
-OUTPUT
+<img src="https://github.com/akshaybahadur21/ImageSegmentation/blob/master/input.jpg">
+
+### Output
+
 <img src="https://github.com/akshaybahadur21/ImageSegmentation/blob/master/output.png">
 
 
