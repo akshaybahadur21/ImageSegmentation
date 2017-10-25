@@ -4,6 +4,7 @@ This code helps you to understand and draw boundaries on objects of a particular
 
 ### Code Requirements
 The example code is in Python ([version 2.7](https://www.python.org/download/releases/2.7/) or higher will work). 
+You need to install opencv library
 
 ### Description
 
