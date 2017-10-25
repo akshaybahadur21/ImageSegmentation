@@ -1,4 +1,4 @@
-## NQueen Problem
+## Image Segmentation
 This code helps you to understand and draw boundaries on objects of a particular image.
 
 
